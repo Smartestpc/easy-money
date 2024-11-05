@@ -1,0 +1,26 @@
+* {
+    padding: 4px;
+    margin: 0;
+}
+body {
+    padding: 4px;
+}
+.h4 {
+    padding-bottom: 12px;
+}
+hr{
+    width: 85%;
+    margin: 0 auto;
+}
+.fp {
+    padding-bottom: 10px;
+    padding: 10px;
+    padding-left: 0%;
+
+}
+.fp1 {
+    padding: 50px;
+}
+.p2 {
+    padding-top: 20px;
+}
