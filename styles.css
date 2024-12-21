@@ -1,26 +1,42 @@
-* {
-    padding: 4px;
-    margin: 0;
-}
 body {
-    padding: 4px;
+  font-style: cursive;
 }
-.h4 {
-    padding-bottom: 12px;
+h1 {
+  color: darkslateblue;
+  background-color: red;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white; 
+  background-color: #007BFF;
 }
-hr{
-    width: 85%;
-    margin: 0 auto;
+p {
+  font-size: 20px;
 }
-.fp {
-    padding-bottom: 10px;
-    padding: 10px;
-    padding-left: 0%;
-
+ol li {
+  font-size: 20px;
 }
-.fp1 {
-    padding: 50px;
+.sub {
+  color: darkslateblue;
+  background-color: red;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white; 
+  background-color: #007BFF;
 }
-.p2 {
-    padding-top: 20px;
-}
+a {
+  display: inline-block; /* Makes the anchor behave like a block for padding and centering */
+    padding: 10px 20px; /* Adds space inside the button */
+    font-size: 16px; /* Adjusts text size */
+    font-weight: bold; /* Makes the text bold */
+    color: white; /* Sets text color */
+    background-color: #007BFF; /* Button background color */
+    text-decoration: none; /* Removes underline */
+    border-radius: 5px; /* Rounds corners */
+    border: 2px solid transparent; /* Optional: adds a border */
+    text-align: center; /* Centers text */
+    transition: all 0.3s ease; /* Smooth transition on hover */
+    }
